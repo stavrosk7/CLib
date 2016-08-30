@@ -6,7 +6,7 @@ By [Stavros Kalaouzis](https://github.com/skalaouzis).
 
 ## Information
 
-A Library of useful algorithms for programming to make your applications simple to understand and easy to use. 
+A Library of useful algorithms for C programming to make your applications simple to understand and easy to use. 
 
 ## Algorithms
 

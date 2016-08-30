@@ -10,37 +10,13 @@ A Library of useful algorithms for programming to make your applications simple 
 
 ## Algorithms
 
-Bla bla
+* [MDB](https://github.com/skalaouzis/GraphsLib/blob/master/MDB) : 
+* [PolynomialRoot_NewtonMethod](https://github.com/skalaouzis/GraphsLib/blob/master/PolynomialRoot_NewtonMethod.cpp) :
+* [ReadFile]() :
+* [dijkstra]() :
+* [factorial]() :
+* [quicksort]() :
 
-|  Dataset  |  Result |
-|:---------:|:-------:|
-| name.     |     n%  |
-| name      |     n%  |
-
-1.  First  plot:
-![one](https://github.com/r10.png "one")
-2.  Second Plot:
-![two](https://github.com/100.png "two")
-
-## Installation
-
-Download to your project directory, add `README.md`, and commit:
-
-```sh
-curl -LO http://git.io/Xy0Chg
-git add README.md
-git commit -m "Use README Boilerplate"
-```
-
-## Usage
-
-
-* Name
-* Description
-* Installation instructions
-* Usage instructions
-* Support instructions
-* Contributing instructions
 
 
 ## Support

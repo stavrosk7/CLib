@@ -1,3 +1,5 @@
+
+
 // max polynomial order is 9
 // check program with the following polynomials
 //	5x3-7x2-40x+100=0  interval [-6.0, 7.0]

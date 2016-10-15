@@ -10,6 +10,8 @@ A Library of useful algorithms for C programming to make your applications simpl
 
 ## Algorithms
 
+* [Breadth First Search Algorithm]() :is an algorithm for traversing or searching tree or graph data structures. It starts at the tree root (or some arbitrary node of a graph, sometimes referred to as a 'search key') and explores the neighbor nodes first, before moving to the next level neighbors.
+
 * [MDB](https://github.com/skalaouzis/GraphsLib/blob/master/MDB) : This program accesses the BugTypes.mdb database, creates a dataset, adds the tables to it, and displays the number of tables, columns, and rows. It also displays the titles of each row.
 
 * [PolynomialRoot_NewtonMethod](https://github.com/skalaouzis/GraphsLib/blob/master/PolynomialRoot_NewtonMethod.cpp) :  is a method for finding successively better approximations to the roots (or zeroes) of a real-valued function

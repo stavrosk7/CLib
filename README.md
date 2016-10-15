@@ -22,6 +22,8 @@ A Library of useful algorithms for C programming to make your applications simpl
 
 * [factorial](https://github.com/skalaouzis/GraphsLib/blob/master/factorial.cpp) : the factorial of a non-negative integer n, denoted by n!, is the product of all positive integers less than or equal to n
 
+* [mergesort]() : is an efficient, general-purpose, comparison-based sorting algorithm. Most implementations produce a stable sort
+
 * [quicksort](https://github.com/skalaouzis/GraphsLib/blob/master/quicksort.cpp) : Quicksort is an efficient sorting algorithm, serving as a systematic method for placing the elements of an array in order. Developed by Tony Hoare in 1959
 
 

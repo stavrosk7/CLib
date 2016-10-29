@@ -1,6 +1,9 @@
 # GraphsLib
 
-By [Stavros Kalaouzis](https://github.com/skalaouzis).
+
+
+
+
 
 
 

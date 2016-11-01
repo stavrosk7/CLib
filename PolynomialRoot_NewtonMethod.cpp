@@ -65,7 +65,7 @@ void main()
 		{	count++;	// counts the number of iterations
 			previous=x;
 	
-			//calclulate new value of x and y
+			//calclulate new value of x and y............................
 			x=(posx+negx)/2.0; 
 			y=0; 
 			for (i=0;i<=n;i++) y=y+b[i]*pow(x,i);

@@ -25,7 +25,7 @@ void main()
 		{	printf("b[%2d ]=",i);
 			scanf("%d",&b[i]);
 		}
-	// print the array of coefficients in decreasing order
+	// print the array of coefficients in decreasing order                
 	printf("COEFFICIENTS OF THE POLYNOMIAL\n");
 	for (i=n;i>=0;i--) printf("b[%2d ]=%4d\n",i,b[i]);
 

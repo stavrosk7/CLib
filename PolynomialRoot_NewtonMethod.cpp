@@ -47,7 +47,7 @@ void main()
 
 		printf("starting interval [negx = %12.3lf  posx = %12.3lf]\n",negx,posx);
  
-	// starting calculations
+	// starting calculations...........................            
 	for (i=0;i<=n;i++) 	yneg=yneg+b[i]*pow(negx,i); 
 	printf("yneg = %12.4lf\n\n",yneg);
 

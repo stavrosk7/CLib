@@ -7,7 +7,7 @@
 //	3x2-4x-4=0  intervals [-2.0, 0.0] and [0.5, 4.0]                                       
 
 #include <stdio.h>
-#include <math.h>
+#include <math.h>               
 int i,n,count=0,b[10];
 double posx, negx, ypos=0.0,yneg=0.0,y=0.0,previous=-999.0, x=0.0, posx0,negx0,temp ;
 
